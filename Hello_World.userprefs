@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{A26D2153-A762-4850-A6E6-FEEBC0CF8C47}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Hello_World/Hello_WorldPage.xaml">
     <Files>
-      <File FileName="Hello_World/App.xaml.cs" Line="1" Column="1" />
-      <File FileName="Hello_World/Hello_WorldPage.xaml" Line="1" Column="1" />
+      <File FileName="Hello_World/App.xaml.cs" Line="11" Column="34" />
+      <File FileName="Hello_World/Hello_WorldPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Hello_World/Hello_WorldPage.xaml" Line="4" Column="3" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
