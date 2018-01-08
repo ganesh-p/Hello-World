@@ -1,0 +1,12 @@
+/Users/administrator/Projects/Hello_World/Hello_World/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile111.AssemblyAttribute.cs
+/Users/administrator/Projects/Hello_World/Hello_World/obj/Debug/Hello_World.App.xaml
+/Users/administrator/Projects/Hello_World/Hello_World/obj/Debug/Hello_World.Hello_WorldPage.xaml
+/Users/administrator/Projects/Hello_World/Hello_World/obj/Debug/Hello_World.App.xaml.g.cs
+/Users/administrator/Projects/Hello_World/Hello_World/obj/Debug/Hello_World.Hello_WorldPage.xaml.g.cs
+/Users/administrator/Projects/Hello_World/Hello_World/bin/Debug/Hello_World.pdb
+/Users/administrator/Projects/Hello_World/Hello_World/bin/Debug/Hello_World.dll
+/Users/administrator/Projects/Hello_World/Hello_World/obj/Debug/Hello_World.dll
+/Users/administrator/Projects/Hello_World/Hello_World/obj/Debug/Hello_World.pdb
+/Users/administrator/Projects/Hello_World/Hello_World/bin/Debug/Xamarin.Forms.Core.dll
+/Users/administrator/Projects/Hello_World/Hello_World/bin/Debug/Xamarin.Forms.Platform.dll
+/Users/administrator/Projects/Hello_World/Hello_World/bin/Debug/Xamarin.Forms.Xaml.dll

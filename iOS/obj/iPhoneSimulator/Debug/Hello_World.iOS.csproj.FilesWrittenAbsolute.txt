@@ -1,0 +1,15 @@
+/Users/administrator/Projects/Hello_World/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/administrator/Projects/Hello_World/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-9.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/administrator/Projects/Hello_World/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-9.2/actool/_PartialAppManifest.items
+/Users/administrator/Projects/Hello_World/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-9.2/actool/_BundleResourceWithLogicalName.items
+/Users/administrator/Projects/Hello_World/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone8.1-9.2/optimized/
+/Users/administrator/Projects/Hello_World/iOS/bin/iPhoneSimulator/Debug/Hello_World.iOS.pdb
+/Users/administrator/Projects/Hello_World/iOS/bin/iPhoneSimulator/Debug/Hello_World.iOS.exe
+/Users/administrator/Projects/Hello_World/iOS/obj/iPhoneSimulator/Debug/Hello_World.iOS.exe
+/Users/administrator/Projects/Hello_World/iOS/obj/iPhoneSimulator/Debug/Hello_World.iOS.pdb
+/Users/administrator/Projects/Hello_World/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll
+/Users/administrator/Projects/Hello_World/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.dll
+/Users/administrator/Projects/Hello_World/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
+/Users/administrator/Projects/Hello_World/iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Xaml.dll
+/Users/administrator/Projects/Hello_World/iOS/bin/iPhoneSimulator/Debug/Hello_World.dll
+/Users/administrator/Projects/Hello_World/iOS/bin/iPhoneSimulator/Debug/Hello_World.pdb
